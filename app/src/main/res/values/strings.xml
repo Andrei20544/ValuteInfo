@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ValuteInfo</string>
+
+    //NewsStrings
+    <string name="All">All</string>
+    <string name="Currency">Curr</string>
+    <string name="Promotions">Promo</string>
+    <string name="Bonds">Bonds</string>
+    <string name="World_News">World</string>
+
+    <string name="NEWS">NEWS</string>
+
+    //MainStrings
+    <string name="Day">Day</string>
+    <string name="Month">Month</string>
+    <string name="Year">Year</string>
+
+    <string name="UpdateData">Update Data</string>
+
+    //Menu
+    <string name="News">News</string>
+
+</resources>

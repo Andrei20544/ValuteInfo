@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3E5E3A</color>
+    <color name="colorPrimaryDark">#659A85</color>
+    <color name="colorAccent">#03DAC5</color>
+
+
+    <color name="BackgroundMainColor">#0A64A4</color>
+    <color name="ElementsMainColor">#3E94D1</color>
+    <color name="ButtonMainColor">#03406A</color>
+
+    <color name="gray">#39775E</color>
+    <color name="gray_sec">#396E58</color>
+    <color name="green_light">#40F396</color>
+    <color name="white_main">#2ABC70</color>
+
+    <color name="green">#3EDDD0</color>
+
+    <color name="white">#ffffff</color>
+    <color name="TextMain">#B8B6B6</color>
+
+    <color name="Black">#070707</color>
+
+    <color name="BackNews">#EDEDED</color>
+    <color name="BackNewsTextCat">#C5C5C5</color>
+    <color name="BackNewsButtCat">#E6E6E6</color>
+
+    <color name="MainBackColor">#4D8079</color>
+</resources>
